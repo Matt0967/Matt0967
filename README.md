@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matt0967/Mattou_DEV
-- 👀 I’m interested in coding
+- 👀 I’m interested in unity
 - 🌱 I’m currently learning python/c++
 - 📫 How to reach me perezmatthieu1@gmail.com
 - 😄 Pronouns: MATT/Matttou
