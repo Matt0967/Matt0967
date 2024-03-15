@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matt0967
+- 👋 Hi, I’m @Matt0967/Mattou_DEV
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python/c++
 - 📫 How to reach me perezmatthieu1@gmail.com
