@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @Matt0967/Mattou_DEV
-- 👀 I’m interested in unity
-- 🌱 I’m currently learning python/c++
-- 📫 How to reach me perezmatthieu1@gmail.com
-- 😄 Pronouns: MATT/Matttou
-- ⚡ Fun fact: Coding Bugs were NOT named after an actual bug
+# Welcome to My GitHub Profile! 👋
 
-<!---
-Matt0967/Matt0967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
+## About Me 🧠💡
+
+I'm a passionate electromechanical engineering student with a deep interest in science, technology, and neuroscience. 🔧⚡🧪
+
+### What I'm Into 🚀
+
+- 🔬 Science enthusiast
+- 💻 Technology lover
+- 🧠 Neuroscience explorer
+- ⚙️ Electromechanical engineering
+
+## My Interests 🌟
+
+- Robotics and automation 🤖
+- Artificial Intelligence and Machine Learning 🖥️
+- Brain-computer interfaces 🧠💻
+- Renewable energy technologies 🌿⚡
+- IoT and smart systems 🌐
+
+## Current Focus 📚
+
+I'm currently diving deep into my electromechanical engineering studies, always looking for ways to bridge the gap between mechanical systems and cutting-edge technology.
+
+## Let's Connect! 🤝
+
+Feel free to reach out if you want to collaborate on projects or just chat about the fascinating worlds of science and technology!
+
+- 📫 How to reach me: [Your preferred contact method]
+- 🌐 My personal website: [Your website if you have one]
+
+Remember: The journey of discovery never ends. Keep learning, keep exploring! 🌠
