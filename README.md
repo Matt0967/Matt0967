@@ -27,7 +27,7 @@ I'm currently diving deep into my electromechanical engineering studies, always 
 
 Feel free to reach out if you want to collaborate on projects or just chat about the fascinating worlds of science and technology!
 
-- 📫 How to reach me: [Buy Email : perezmatthieu1@gamil.com
-- 🌐 My personal website: 
+- 📫 How to reach me: Email perezmatthieu1@gamil.com
+- 🌐 My personal website: / 
 
 Remember: The journey of discovery never ends. Keep learning, keep exploring! 🌠
