@@ -9,7 +9,7 @@ I'm a passionate electromechanical engineering student with a deep interest in s
 - 🔬 Science enthusiast
 - 💻 Technology lover
 - 🧠 Neuroscience explorer
-- ⚙️ Electromechanical engineering
+- ⚙️ Electromechanical student
 
 ## My Interests 🌟
 
