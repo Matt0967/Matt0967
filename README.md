@@ -9,7 +9,7 @@ I'm a passionate electromechanical engineering student with a deep interest in s
 - 🔬 Science enthusiast
 - 💻 Technology lover
 - 🧠 Neuroscience explorer
-- ⚙️ Electromechanical student
+- ⚙️ computer sciences student
 
 ## My Interests 🌟
 
@@ -21,7 +21,7 @@ I'm a passionate electromechanical engineering student with a deep interest in s
 
 ## Current Focus 📚
 
-I'm currently diving deep into my electromechanical engineering studies, always looking for ways to bridge the gap between mechanical systems and cutting-edge technology.
+I'm currently diving deep into my computer sciences engineering studies, always looking for ways to bridge the gap between mechanical systems and cutting-edge technology.
 
 ## Let's Connect! 🤝
 
