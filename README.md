@@ -30,6 +30,6 @@ I'm currently diving deep into my computer sciences engineering studies, always 
 Feel free to reach out if you want to collaborate on projects or just chat about the fascinating worlds of science and technology!
 
 - 📫 How to reach me: Email perezmatthieu1@gamil.com
-- 🌐 My personal website : 
+- 🌐 My personal website : https://myportefolio.framer.media/
 
 Remember: The journey of discovery never ends. Keep learning, keep exploring! 🌠
